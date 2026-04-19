@@ -135,7 +135,7 @@ root
 
 ## 📸 EVIDENCIAS
 
-- Nmap → Puerto 80 abierto  ![[[nmap_cms 1.png](https://raw.githubusercontent.com/chilaba8/writte-up-walkingCMS/94b3c9008eb745ae8f976d614edf44441dd8f2c7/nmap_cms.png)]]
+- Nmap → Puerto 80 abierto  ![[[nmap_cms 1.png]](https://raw.githubusercontent.com/chilaba8/writte-up-walkingCMS/94b3c9008eb745ae8f976d614edf44441dd8f2c7/nmap_cms.png)]]
 - 
 - Gobuster → `/wordpress` y endpoints  ![[gobuster1_cms 1.png]]
 - ![[guster_2_cms 1.png]]
